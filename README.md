@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24292e,100:6e7781&height=220&section=header&text=Geethesh&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20SVNIT&descSize=18&descAlignY=58" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24292e,100:6e7781&height=160&section=header" alt="banner" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=3000&pause=1200&color=6E7781&center=true&vCenter=true&width=600&height=55&lines=Hi,+I'm+Geethesh;Computer+Science+Student+@+SVNIT;Learning+%26+building+software" alt="Typing intro" />
 </p>
 
 ### About me
@@ -20,6 +24,14 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,neo4j&perline=3" alt="databases" />
   <img src="https://cdn.simpleicons.org/qdrant/DC244C" height="48" alt="Qdrant" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="48" alt="scikit-learn" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48" alt="Hugging Face" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/langchain/3FA796" height="48" alt="LangChain" />
 </p>
 
 <p align="center">
