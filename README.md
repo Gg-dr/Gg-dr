@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24292e,100:6e7781&height=160&section=header" alt="banner" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&duration=3000&pause=1200&color=6E7781&center=true&vCenter=true&width=600&height=55&lines=Hi,+I'm+Geethesh;Computer+Science+Student+@+SVNIT;Learning+%26+building+software" alt="Typing intro" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24292e,100:6e7781&height=230&section=header&text=Geethesh&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%40%20SVNIT&descSize=20&descAlignY=60&animation=fadeIn" alt="Geethesh - Computer Science Student at SVNIT" />
 </p>
 
 ### About me
@@ -62,9 +58,14 @@
 ### Connect with me
 
 <p align="center">
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
+  <a href="https://x.com/Geethesh09">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/ffffff" />
+      <img src="https://cdn.simpleicons.org/x/000000" height="36" alt="X" />
+    </picture>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/geethesh-ganipudi-1283412a3"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="36" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
