@@ -57,17 +57,6 @@
 
 ### Connect with me
 
-<p align="center">
-  <a href="https://x.com/Geethesh09">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/ffffff" />
-      <img src="https://cdn.simpleicons.org/x/000000" height="36" alt="X" />
-    </picture>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/geethesh-ganipudi-1283412a3"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="36" alt="LinkedIn" /></a>
-</p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e7781,100:24292e&height=100&section=footer" alt="footer" />
-</p>
+
+<p align="center"> <a href="https://x.com/Geethesh09"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/ffffff" /> <img src="https://cdn.simpleicons.org/x/000000" height="36" alt="X" /> </picture> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/geethesh-ganipudi-1283412a3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="36" alt="LinkedIn" /></a> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e7781,100:24292e&height=100&section=footer" alt="footer" /> </p>
